@@ -98,7 +98,7 @@ patient history, recommendations, and slot delegation. The application uses Post
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/Doctor-Slot-Management-Use-Cases.git
+https://github.com/C1116363/Doctor-Slot-Management-Use-Cases
 
 # Navigate into project
 cd Doctor-Slot-Management-Use-Cases
